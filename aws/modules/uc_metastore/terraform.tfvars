@@ -8,7 +8,6 @@
 
 
 //  UC Deployment Configs
-unity_metastore_bucket = "sumit-europe-hub-spoke"
 unity_metastore_iam = "<CHANGE ME>"
 databricks_workspace_ids = "1118000276701442"
 unity_admin_groups = "account users"
